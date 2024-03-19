@@ -26,7 +26,7 @@ const Home = () => {
             onClick={() => handleAiWith('image')}
             style={aiWith === 'image' ? { ...styles.button, ...styles.activeButton } : { ...styles.button, ...styles.marginLeft }}
           >
-            AI with Image
+            AI Analyzing with Image
           </button>
         </div>
         <div style={styles.content}>

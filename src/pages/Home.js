@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <div style={styles.container}>
       <h1 style={styles.title}>Generative AI MBH System</h1>
-      <p style={styles.subtitle}>Developed using ReactJS + Redux + Google Gemini AI</p>
+      <p style={styles.subtitle}>Developed using ReactJS + Redux + Google Gemini</p>
 
       <div style={styles.searchContainer}>
         <div style={styles.buttonContainer}>
